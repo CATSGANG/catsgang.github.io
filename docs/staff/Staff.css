@@ -28,7 +28,7 @@
 }
 
 .u-section-1 .u-btn-1 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.4);
   font-size: 1.875rem;
   margin: 0 auto;
 }
@@ -42,7 +42,7 @@
 }
 
 .u-section-1 .u-btn-2 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.4);
   font-size: 2.25rem;
   margin: 0 auto;
 }
@@ -56,7 +56,7 @@
 }
 
 .u-section-1 .u-btn-3 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.4);
   font-size: 1.875rem;
   margin: 0 auto;
 }
@@ -150,7 +150,8 @@
   .u-section-1 .u-layout-wrap-1 {
     width: 340px;
   }
-}.u-section-2 .u-sheet-1 {
+}
+.u-section-2 .u-sheet-1 {
   min-height: 1242px;
 }
 
@@ -180,7 +181,9 @@
 .u-section-2 .u-repeater-1 {
   grid-gap: 10px 10px;
   grid-auto-columns: calc(33.3333% - 6.66667px);
-  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(
+      33.3333% - 6.66667px
+    );
   grid-auto-rows: calc(50% - 5px);
 }
 
@@ -193,12 +196,12 @@
   height: 117px;
   background-image: url("images/Screenshot_682.png");
   background-position: 50% 50%;
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.4);
   margin: 0 auto;
 }
 
 .u-section-2 .u-text-2 {
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
   margin: 26px 0 0;
 }
 
@@ -231,12 +234,12 @@
   height: 117px;
   background-image: url("images/fullhdlogo_v2.jpg");
   background-position: 50% 50%;
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.4);
   margin: 0 auto;
 }
 
 .u-section-2 .u-text-6 {
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
   margin: 26px 0 0;
 }
 
@@ -267,14 +270,14 @@
 .u-section-2 .u-image-3 {
   width: 117px;
   height: 117px;
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.4);
   background-image: url("images/IMG_20210418_144359.jpg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
 
 .u-section-2 .u-text-10 {
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
   margin: 26px 0 0;
 }
 
@@ -307,12 +310,12 @@
   height: 117px;
   background-image: url("images/9k.png");
   background-position: 50% 50%;
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.4);
   margin: 0 auto;
 }
 
 .u-section-2 .u-text-14 {
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
   margin: 26px 0 0;
 }
 
@@ -343,14 +346,14 @@
 .u-section-2 .u-image-5 {
   width: 117px;
   height: 117px;
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.4);
   background-image: url("images/3285925.png");
   background-position: 50% 50%;
   margin: 0 auto;
 }
 
 .u-section-2 .u-text-18 {
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
   margin: 26px 0 0;
 }
 
@@ -381,12 +384,14 @@
 .u-section-2 .u-image-6 {
   width: 117px;
   height: 117px;
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  background-image: url("images/image0.jpg");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.4);
   margin: 0 auto;
 }
 
 .u-section-2 .u-text-22 {
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
   margin: 26px 0 0;
 }
 
@@ -538,49 +543,66 @@
   .u-section-2 .u-repeater-1 {
     grid-auto-columns: 100%;
   }
-}@keyframes hoverSize {
-  from {font-size: 48px;}
-  to {font-size: 60px;}
+}
+@keyframes hoverSize {
+  from {
+    font-size: 48px;
+  }
+  to {
+    font-size: 60px;
+  }
 }
 @keyframes hoverSizeStaff {
-  from {font-size: 16px;}
-  to {font-size: 18px;}
+  from {
+    font-size: 16px;
+  }
+  to {
+    font-size: 18px;
+  }
 }
 @keyframes hoverSizeStaffName {
-  from {font-size: 20px;}
-  to {font-size: 26px;}
+  from {
+    font-size: 20px;
+  }
+  to {
+    font-size: 26px;
+  }
 }
 @keyframes hoverButtonAbout {
-  from {font-size: 36px;}
-  to {font-size: 46px;}
+  from {
+    font-size: 36px;
+  }
+  to {
+    font-size: 46px;
+  }
 }
 .cats:hover {
-	animation-name: hoverSize;
-  	animation-duration: 4s;
-	font-size: 60px;
+  animation-name: hoverSize;
+  animation-duration: 4s;
+  font-size: 60px;
 }
 .cats {
 }
 .about {
 }
 .about:hover {
-	animation-name: hoverButtonAbout;
-  	animation-duration: 2s;
-	font-size: 46px;
+  animation-name: hoverButtonAbout;
+  animation-duration: 2s;
+  font-size: 46px;
 }
 .staff {
 }
 .text:hover {
-	animation-name: hoverSizeStaff;
-	animation-duration: 5s;
-	font-size: 18px;
+  animation-name: hoverSizeStaff;
+  animation-duration: 5s;
+  font-size: 18px;
 }
 .text {
 }
 .name:hover {
-	animation-name: hoverSizeStaffName;
-	animation-duration: 2s;
-	font-size: 26px;
+  animation-name: hoverSizeStaffName;
+  animation-duration: 2s;
+  font-size: 26px;
 }
 .name {
 }
